@@ -1,0 +1,18 @@
+{
+
+"Test_case_id":58, 
+
+"Test_priority":"midle", 
+
+"Test_case_title":"true",
+
+"Step":1,
+"Test_steps":"Openwebsite", 
+"Test_data":24.10.22,
+"Expected_result":"the_registration_page_opened",
+
+"QA_engineer":"Petrov",
+"Win_MCOS_browser":Windows_chrome",
+"Status_pass_fall":"pass"
+
+	}

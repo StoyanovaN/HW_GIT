@@ -1,0 +1,15 @@
+ID: 
+short description:
+Detailed description:
+time, date:
+name, email of the tester:
+hardware, software configurations:
+input data:
+steps of the procedure:
+expected results:
+actual results:
+attempts to reproduce the defect, description of testing tools:
+other observations and information:
+importance:
+priority:
+screenshot:
